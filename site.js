@@ -12,7 +12,6 @@ $(document).ready(function() {
 })
 
 function scrollFunction() {
-    console.log(opacity)
     if(window.pageYOffset > offset_value) {
         $('.scroll_up').fadeIn(3000);
         $('.scroll_up').css({'display': 'block'});
