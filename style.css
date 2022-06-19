@@ -101,7 +101,6 @@ a {
     padding-left: 2rem;
 }
 .my_pic {
-    text-align: center;
     border-radius: 100px;
     display: flex;
     align-items: center;
@@ -170,8 +169,6 @@ hr {
     font-size: 1.5rem;
 }
 .project_container {
-    /* display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
     display: flex;
     align-items: center;
     max-width: 1200px;
@@ -252,9 +249,6 @@ hr {
 .contact_me {
     width: 250px;
     height: 250px;
-    /* border-width: 2px;
-    border-style: solid;
-    border-image: linear-gradient(to right, green, red) 2; */
     background: 
         linear-gradient(white, white) padding-box,
         linear-gradient(to right, #222, #ccc) border-box;
@@ -280,7 +274,8 @@ hr {
 
 /* footer section start here */
 .footer {
-    width: 80vw;
+    width: 100%;
+    max-width: 1300px;
     display: flex;
     padding: 30px;
     justify-content: space-between;
@@ -298,6 +293,7 @@ hr {
     padding: 10px;
     border-radius: 5px;
     z-index: 11;
+    display: none;
 }
 
 /* Responsiveness starts here...*/
@@ -356,6 +352,9 @@ hr {
     }
     .edu_container {
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+    .footer_links {
+        display: none;
     }
 }
 
