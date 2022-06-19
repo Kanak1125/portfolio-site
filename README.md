@@ -1,14 +1,14 @@
 # portfolio-site
 
-# TITLES 
-## Brief info on me
-### Biography
-### Contact
-### Services
-### Years of Experience(experience with HTML5, CSS3, and JS, not with job)
-### Satisfaction clients (I don't have client yet)
-### Clients on worldwide (I don't have client yet)
-### Projects Done
+## TITLES 
+### Brief info on me
+#### Biography
+#### Contact
+#### Services
+#### Years of Experience(experience with HTML5, CSS3, and JS, not with job)
+#### Satisfaction clients (I don't have client yet)
+#### Clients on worldwide (I don't have client yet)
+#### Projects Done
 
 ## My advantages(skills)
 ## Education & Experience
