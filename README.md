@@ -26,4 +26,4 @@ My portfolio site project that describes me well. It depicts my skills, educatio
 - JQuery
 
 ## Launch
-Go to 
+Go to https://kanak-dev.github.io/portfolio-site/
