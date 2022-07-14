@@ -184,7 +184,8 @@ hr {
     box-shadow: 2px 1px 10px var(--sub_heading_color);
     transition: var(--transition);
 }
-.project:hover {
+.project:hover,
+.project:active {
     transform: scale(1.05);
 }
 .project > img {
